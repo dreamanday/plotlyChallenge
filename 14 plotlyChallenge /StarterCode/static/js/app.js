@@ -1,5 +1,5 @@
 
-let url = '../StarterCode/samples.json'
+let url = '14 plotlyChallenge /StarterCode/samples.json'
 
 d3.json(url).then(function(data){
     console.log(data)
